@@ -1,6 +1,6 @@
 # HR Analytics
 <br>
-## <a name="overview">Overview</a>
+## <a>Overview</a>
 
 This project involves analyzing HR data using Python, SQL, and Power BI. The goal is to gain insights into employee metrics, perform data preprocessing, apply machine learning models, and visualize results. The dataset used in this project is the HR dataset containing employee information.The objective is to predict employee attrition using a HR dataset from IBM Watson Analytics Sample Data - [HR Employee Attrition & Performance](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/) which contains employee data for 1,470 employees with various information about the employees. 
 
