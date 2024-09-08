@@ -4,7 +4,7 @@
 
 This project involves analyzing HR data using Python, SQL, and Power BI. The goal is to gain insights into employee metrics, perform data preprocessing, apply machine learning models, and visualize results. The dataset used in this project is the HR dataset containing employee information.The objective is to predict employee attrition using a HR dataset from IBM Watson Analytics Sample Data - [HR Employee Attrition & Performance](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/) which contains employee data for 1,470 employees with various information about the employees. 
 
-## <a name="problem">Problem Statement</a>
+## <a>Problem Statement</a>
 High employee attrition can be a significant issue for any organization, affecting both productivity and financial performance. Employee attrition refers to the turnover of employees as they leave and are replaced by new hires. Calculating the attrition rate involves determining the percentage of employees who leave the company over a specified period. This turnover can lead to substantial costs associated with recruitment, hiring, and training new employees. Additionally, there are indirect costs such as lost productivity and the time required for new hires to become fully effective in their roles. These costs become even more pronounced when high-level or highly paid employees are replaced.
 
 A high attrition rate may also signal underlying problems within the company, such as uncompetitive salaries, poor management practices, or unrealistic expectations. Understanding the factors contributing to employee attrition can provide insights into how to improve retention and plan for future hiring needs.
